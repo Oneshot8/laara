@@ -10,11 +10,11 @@
 <a href="#"><img title="Rudhra" src="https://img.shields.io/badge/Rudhra-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/prince-rudh"><img title="Author" src="https://img.shields.io/badge/Author-PrinceRudh/Rudhra?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/oneshot-laara"><img title="Author" src="https://img.shields.io/badge/Author-oneshot-laara/laara?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/prince-rudh">Prince-Rudh</a> to make it public
+Project created by <a href="https://github.com/oneshot8-laar">oneshot8-laara</a> to make it public
     <br>
        | © |
         Reserved |
@@ -45,7 +45,7 @@ bash <(curl -L https://t.ly/tHxh)
 
 4. You will have to fork this git to deploy via Heroku.
   click to fork the git into your account
- Click [FORK](https://github.com/prince-rudh/Rudhra/fork)
+ Click [FORK](https://github.com/oneshot8/laara/fork)
 
 5. Now https://heroku.com/deploy?template=https://github.com/prince-rudh/Rudhra copy this url and change prince-rudh with your github username and click go<br>
 
