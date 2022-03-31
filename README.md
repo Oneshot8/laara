@@ -61,7 +61,7 @@ bash <(curl -L https://t.ly/tHxh)
 </p>
 
   <p align="center">
-  <a href="httsp://github.com/prince-rudh/Rudhra">
+  <a href="httsp://github.com/oneshot8/laara">
     <img src="https://img.shields.io/github/repo-size/prince-rudh/Rudhra?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
 <a href="https://github.com/prince-rudh/followers"><img title="Followers" src="https://img.shields.io/github/followers/PrinceRudh?color=blue&style=flat-square"></a>
